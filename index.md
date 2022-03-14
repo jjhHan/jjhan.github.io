@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My test Page
 
-You can use the [editor on GitHub](https://github.com/jjhHan/jjhan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am trying to record something I've uesd or tested.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information
+
 
 ```markdown
-Syntax highlighted code block
+Going to get a master's degree of Computer Science in 2023
+Have Double bachelor degree(Information and Computing Science & Computer Science)
 
-# Header 1
-## Header 2
-### Header 3
+# 24 years old 
+## male
+### Northern netizen
+#### Daydreamer
 
-- Bulleted
-- List
+- Medical Image Segmentaion
+- 2D - X-ray 
+- 3D - MRI & CT 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Python Pytorch for Deep Learning
+Java for Leetcode
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details contact [mail](surenwuyuwuqiu@qq.com).
 
-### Jekyll Themes
+### Jobs!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjhHan/jjhan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我特别喜欢和聪明人交往，因为不用考虑他们的尊严。
 
-### Support or Contact
+### Just for test
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
